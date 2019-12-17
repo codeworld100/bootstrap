@@ -21,6 +21,9 @@
   <a href="https://blog.getbootstrap.com/">Blog</a>
 </p>
 
+<h3 align="center">解密大师专用版</h3>
+<p align="center"><p>该版本主要会修改一些源代码，以求更好地用于解密大师官网的开发。解密大师主要提供rar、zip、7z、office/wps文档(word、excel、PowerPoint、access等)、pdf等文件的密码破解与找回。</p>
+<h3 align="center"><a href="https://jiemidashi.net/">rar密码破解</a></h3><h3 align="center"><a href="https://jiemidashi.net/">zip密码破解</a></h3>
 
 ## Table of contents
 
